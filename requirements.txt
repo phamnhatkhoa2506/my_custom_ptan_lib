@@ -1,0 +1,9 @@
+gymnasium[atari]
+gymnasium[classic-control]
+moviepy
+numpy
+opencv-python
+torch
+torchvision
+pytorch-ignite
+stable-baselines3
